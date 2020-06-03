@@ -1,0 +1,7 @@
+GameManager:
+   #Defina o tempo de cooldown para o jogo iniciar (EM SEGUNDOS).
+   LobbyCountdown: 10
+   #Defina o tempo de cooldown para a TNT na cabeça dos jogadores explodirem (EM SEGUNDOS).
+   ExplosionCountdown:
+   #Defina a quantidade de jogadores para o jogo iniciar.
+   PlayersNeeded: 11

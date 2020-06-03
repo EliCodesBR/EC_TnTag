@@ -1,0 +1,15 @@
+name: EC_TnTTAG
+author: EliCodes
+version: 1.1 ALPHA
+main: me.elicodes.tnttag.TNTMain
+description: Plugin kibado da hypixel - TNT Tag
+commands:
+  lobby:
+    usage: /<command>
+    description: Issues the main command
+  game:
+    usage: /<command>
+    description: Issues the main command
+  force:
+    usage: /<command>
+    description: Issues the main command
